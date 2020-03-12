@@ -1,3 +1,3 @@
 # Python-work--selenium
-### Use selenium to contorl web
-### Cmoney 股市大富翁
+使用selenium控制網頁
+Cmoney 股市大富翁
